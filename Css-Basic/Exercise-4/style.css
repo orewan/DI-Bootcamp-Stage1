@@ -1,0 +1,26 @@
+.avatar.proportioned{
+    /* 300px wide */
+    width: 300px;
+    height: auto; /* mistake =>  solution height:auto */
+}
+
+.avatar.distorted{
+    /*  */
+    width: 200px;  /* width:200px (i put 100px)*/
+    height: 400px; /* height:400px (i put 300px)*/
+}
+
+
+/* solution
+
+.avatar.proportioned {
+  height: auto;
+  width: 300px;
+}
+
+.avatar.distorted {
+  height: 400px;
+  width: 200px;
+}
+
+*/
