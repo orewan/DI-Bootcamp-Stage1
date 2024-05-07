@@ -1,0 +1,53 @@
+
+.number{
+    background-color: pink;
+}
+
+
+
+#number3{
+    font-size: 4em ;
+    
+}
+
+/* First Div(id) */
+#number2{
+    font-size: 3em ;
+    color: blue;
+}
+
+/* Second Div(id) */
+#number4{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 2em ;
+    
+}
+
+
+
+
+/* Solution */
+/*
+.odd =number {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+  
+
+Use class when i used an id
+  .oddly-cool == number3 {
+    font-size: 24px;
+  }
+  
+  #two = number2 {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  
+  #four = number4{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+  }
+  */
