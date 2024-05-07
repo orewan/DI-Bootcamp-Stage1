@@ -11,3 +11,22 @@
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
 }
+
+/* The correction is below but above is working too
+
+.clickMe,.noClickMe{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.clickMe{
+    background-color: black;
+    color: white;
+}
+
+.noClickMe{
+    background-color: yellow;
+    color: black;
+}
+
+*/
