@@ -1,0 +1,20 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+/** Other solution works with Element but not with Class**/
+/*
+p{
+    font-size: 20px;
+}
+
+div p{
+    background-color: yellow;
+    color : red;
+    text-align: center;
+}
+*/

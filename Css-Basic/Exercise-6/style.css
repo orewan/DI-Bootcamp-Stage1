@@ -1,0 +1,8 @@
+.para{
+    font-size: 24px;
+    color: #f00;
+}
+
+.para.small-para{
+    font-size: 16px;
+}
