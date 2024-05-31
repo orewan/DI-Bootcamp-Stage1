@@ -1,0 +1,21 @@
+#wrap{
+    background-color: #55CCFF;
+    padding: 8px;
+    
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+li{
+    display: block;
+    /* Don't understand why */
+}
+
+
+li::first-letter{
+    font-size: 24px;
+    font-weight: bold;
+}

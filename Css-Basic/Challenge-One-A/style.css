@@ -1,0 +1,56 @@
+body{
+    background-color: #E2AC7F;
+    
+}
+
+
+#wrap{
+    width: 800px;
+    margin: auto;
+    padding: auto; 
+
+
+    /*border: dashed;*/
+    
+    border: 10px dotted black;
+    text-align: center;
+    background-color: #F5F5DC;
+}
+
+h1{
+    /*border: dashed;*/
+    border-bottom: 10px dotted black;
+    margin: 0px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+
+   
+}
+ul{
+    
+    list-style-type: none;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: 'Share Tech Mono', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    /
+}
+li{
+    margin:5px;
+} 
+
+li::first-letter{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.copyright{
+    font-family: 'Share Tech Mono', sans-serif;
+    font-size: 0.75em;
+    text-align: center;
+}
